@@ -1,5 +1,6 @@
 # global-superstore-sales-analysis
 ### Business Intelligence & Sales Performance Dashboard
+
 An interactive Business Intelligence project developed using Microsoft Power BI to analyze sales performance, profitability, customer segments, product categories, regional performance, market performance, and sales trends using the Global Superstore dataset.
 ---
 
