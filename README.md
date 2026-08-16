@@ -211,27 +211,4 @@ Central's strong performance provides an opportunity to identify successful stra
 - **Microsoft Excel** — Dataset management
 - **GitHub** — Project documentation and version control
 
----
-
-## 📁 Project Structure
-
-```text
-global-superstore-sales-analysis/
-│
-├── README.md
-│
-├── dashboard/
-│   ├── Global_Superstore_Dashboard.pbix
-│   └── Global_Superstore_Dashboard.pdf
-│
-├── reports/
-│   ├── Business_Intelligence_Overview.pdf
-│   └── Executive_Summary_Report.pdf
-│
-├── data/
-│   └── Global_Superstore.xlsx
-│
-└── screenshots/
-    ├── dashboard-preview.png
-    ├── power-query-cleaning.png
     └── dashboard-interactive-analysis.png
