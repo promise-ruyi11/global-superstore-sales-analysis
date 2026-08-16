@@ -10,7 +10,7 @@ An interactive Business Intelligence project developed using Microsoft Power BI 
 
 ## 📌 Project Overview
 
-This project analyses the Global Superstore dataset to evaluate business performance across sales, profitability, customer segments, product categories, regions, and markets.
+This project analyses the Global Superstore(2011-2012) dataset to evaluate business performance across sales, profitability, customer segments, product categories, regions, and markets.
 
 The analysis was developed using **Microsoft Power BI**, with data preparation and transformation performed using **Power Query**.
 
@@ -214,5 +214,3 @@ Central's strong performance provides an opportunity to identify successful stra
 - **Power Query** — Data cleaning and transformation
 - **Microsoft Excel** — Dataset management
 - **GitHub** — Project documentation and version control
-
-    └── dashboard-interactive-analysis.png
