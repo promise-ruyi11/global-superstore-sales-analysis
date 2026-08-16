@@ -107,7 +107,11 @@ The Power BI dashboard was designed to provide an interactive overview of busine
 - Interactive Slicers and Filters
 
 ### Interactive Dashboard
-<img width="810" height="344" alt="Global superstore dashboard" src="https://github.com/user-attachments/assets/243496ce-daa5-42f8-a8e0-1274a393811b" />
+<img width="834" height="353" alt="year 1" src="https://github.com/user-attachments/assets/3fc25429-d5f4-485b-b422-2c1e623240ed" />
+<img width="829" height="352" alt="year 2" src="https://github.com/user-attachments/assets/e3ae70c7-c9f4-4c70-8653-e8f1af84c37c" />
+<img width="832" height="350" alt="year 3" src="https://github.com/user-attachments/assets/8ce1123e-27f6-483f-9968-11030c2c116b" />
+<img width="832" height="350" alt="year 4" src="https://github.com/user-attachments/assets/f242de0d-b6e7-44e3-9241-a6b518e993bb" />
+
 ---
 
 ## 📊 Key Performance Indicators
