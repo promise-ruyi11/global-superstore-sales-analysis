@@ -4,4 +4,4 @@ An interactive Business Intelligence project developed using Microsoft Power BI 
 ---
 
 ## 📊 Dashboard Preview
-![Global Superstore Power BI Dashboard](Globalsuperdashboard.PNG)
+![Global Superstore Dashboard](Global%20superstore%20dashboard.PNG)
