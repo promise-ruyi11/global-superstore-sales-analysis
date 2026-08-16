@@ -82,4 +82,5 @@ Data preparation was performed using **Microsoft Power Query** before developing
 - Prepared the dataset for analysis and visualization
 - Created measures required for the dashboard KPIs
 
-![Power BI Dashboard](power%query.PNG)
+<img width="960" height="510" alt="power query" src="https://github.com/user-attachments/assets/c7c272d5-b8b1-4b25-8962-438abff1d19d" />
+
