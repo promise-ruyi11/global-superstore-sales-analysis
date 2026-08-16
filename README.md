@@ -81,4 +81,5 @@ Data preparation was performed using **Microsoft Power Query** before developing
 - Cleaned and transformed relevant fields
 - Prepared the dataset for analysis and visualization
 - Created measures required for the dashboard KPIs
-![Power BI Dashboard](powerquery.PNG)
+
+![Power BI Dashboard](power%query.PNG)
